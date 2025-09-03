@@ -51,14 +51,8 @@ http://177.53.154.70:9981/stream/channelid/782703881?profile=pass
 http://177.53.154.70:9981/stream/channelid/1380582614?profile=pass
 #EXTINF:0 type="stream" channelId="1208" logo="https://www.lomino.net.pe/canales/aye.png", A&E
 http://177.53.154.70:9981/stream/channelid/1034393438?profile=pass
-#EXTINF:0 type="stream" channelId="-1", HBO
-http://190.14.10.19:16000/play/a040/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", HBO 2
-http://190.14.10.19:16000/play/a041/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", HBO Family
-http://190.14.10.19:16000/play/a043/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", HBO Plus
-http://190.14.10.19:16000/play/a042/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MoniTV
+https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2625" logo="https://www.lomino.net.pe/canales/studiouniversal.png", Studio Universal
 http://177.53.154.70:9981/stream/channelid/1564785158?profile=pass
 #EXTINF:0 type="stream" channelId="1214" logo="https://www.lomino.net.pe/canales/sonymovies.png", Sony Movies
@@ -83,44 +77,26 @@ http://177.53.154.70:9981/stream/channelid/1580738470?profile=pass
 http://177.53.154.70:9981/stream/channelid/1458179531?profile=pass
 #EXTINF:0 type="stream" channelId="-1", Warner TV
 https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
-#EXTINF:0 type="stream" channelId="-1", Discovery Home & Health
-http://190.14.10.19:16000/play/a072/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Discovery Turbo
-http://190.14.10.19:16000/play/a071/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Discovery World
-http://190.14.10.19:16000/play/a07z/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", big
+https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Fashion
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u
 #EXTINF:0 type="stream" channelId="2504" logo="https://www.lomino.net.pe/canales/tlnovelas.png", TLNovelas
 http://177.53.154.70:9981/stream/channelid/1114505336?profile=pass
 #EXTINF:0 type="stream" channelId="1954" logo="https://www.lomino.net.pe/canales/lasestrellas.png", Las Estrellas
 http://177.53.154.70:9981/stream/channelid/1718960791?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Kartoon Channel
-https://dbrb49pjoymg4.cloudfront.net/10001/99991327/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991327&ads._fw_ifa_type=dpid&ads._fw_did=413d7e29-b63e-b34e-b143-bf0efe32f394&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=GeniusBrandsNew&ads.csid=xumo_desktopweb_NBCUUniversalCrime_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=1&ads.genre=Family%2CComedy%2CAnimation&ads._fw_content_category=IAB6&ads._fw_content_language=undefined&ads._fw_content_genre=Kids&ads._fw_content_rating=TV-Y7&ads.xumo_contentId=2682&ads.xumo_contentName=GeniusBrandsNew&ads.xumo_providerId=2682&ads.xumo_providerName=GeniusBrandsNew&ads._fw_deviceMake=&ads._fw_device_model=&ads.channelId=99991327&ads.xumo_platform=desktopweb&ads.site_id=26840&ads.appName=xumo&ads.appVersion=2.18.0&ads._fw_app_bundle=&ads._fw_app_store_url=&ads.site_name=XumoPlay&ads.site_page=https%253A%252F%252Fplay.xumo.com
-#EXTINF:0 type="stream" channelId="-1", Semilitas
-http://190.14.10.19:16000/play/a02f/index.m3u8
-#EXTINF:0 type="stream" channelId="41" logo="https://www.lomino.net.pe/canales/nick.png", Nickelodeon
-http://177.53.154.70:9981/stream/channelid/1870409427?profile=pass
-#EXTINF:0 type="stream" channelId="322" logo="https://www.lomino.net.pe/canales/nickjr.png", Nick Jr
-http://177.53.154.70:9981/stream/channelid/1053621676?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Nickelodeon Asia
+#EXTINF:0 type="stream" channelId="-1", Nickelodeon
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
-#EXTINF:0 type="stream" channelId="-1", Nick Jr. Asia
+#EXTINF:0 type="stream" channelId="-1", Nick Jr.
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cartoon Channel PH
+https://live20.bozztv.com/akamaissh101/ssh101/toonchannelph/playlist.m3u8
 #EXTINF:0 type="stream" channelId="19" logo="https://www.lomino.net.pe/canales/disney.png", Disney Channel
 http://177.53.154.70:9981/stream/channelid/2070145001?profile=pass
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/disneyjr.png", Disney Jr
 http://177.53.154.70:9981/stream/channelid/1712901419?profile=pass
-#EXTINF:0 type="stream" channelId="-1", ZooMoo
-http://190.14.10.19:16000/play/a036/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cartoon Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:0 type="stream" channelId="-1", Cartoonito
-http://190.14.10.19:16000/play/a02c/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Discovery Kids
-http://190.14.10.19:16000/play/a03l/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Canal Infantil
-http://181.78.71.49:12000/play/a0um/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/dreamworks.png", Dreamworks
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 #EXTINF:0 type="stream" channelId="-1", Cbeebies
@@ -133,26 +109,12 @@ http://177.53.154.70:9981/stream/channelid/611322685?profile=pass
 http://177.53.154.70:9981/stream/channelid/1059436452?profile=pass
 #EXTINF:0 type="stream" channelId="1201" logo="https://www.lomino.net.pe/canales/history2.png", History 2
 http://177.53.154.70:9981/stream/channelid/656141484?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Discovery
-http://190.14.10.19:16000/play/a07y/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Discovery ID
-http://190.14.10.19:16000/play/a082/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", Discovery Science
-http://190.14.10.19:16000/play/a03b/index.m3u8
 #EXTINF:0 type="stream" channelId="1967" logo="https://www.lomino.net.pe/canales/telemundo.png", Telemundo
 http://177.53.154.70:9981/stream/channelid/564566470?profile=pass
+#EXTINF:0 type="stream" channelId="-1", Amor 101.3 FM
+https://live20.bozztv.com/akamaissh101/ssh101/amor101tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3209" logo="https://www.lomino.net.pe/canales/univision.png", Univision
 http://177.53.154.70:9981/stream/channelid/1136052604?profile=pass
-#EXTINF:0 type="stream" channelId="527" logo="https://www.lomino.net.pe/canales/cnbc.png", CNBC
-http://177.53.154.70:9981/stream/channelid/983847709?profile=pass
-#EXTINF:0 type="stream" channelId="1973" logo="https://www.lomino.net.pe/canales/mtv.png", MTV
-http://177.53.154.70:9981/stream/channelid/1233977565?profile=pass
-#EXTINF:0 type="stream" channelId="289" logo="https://www.lomino.net.pe/canales/mtvhits.png", MTV Hits
-http://177.53.154.70:9981/stream/channelid/1281775708?profile=pass
-#EXTINF:0 type="stream" channelId="149" logo="https://www.lomino.net.pe/canales/mtv80s.png", MTV 80s
-http://177.53.154.70:9981/stream/channelid/1294496543?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/mtvlive.png", MTV Live
-http://177.53.154.70:9981/stream/channelid/1603961014?profile=pass
 #EXTINF:0 type="stream" channelId="1966" logo="https://www.lomino.net.pe/canales/telehitmusica.png", Telehit
 http://177.53.154.70:9981/stream/channelid/2114855691?profile=pass
 #EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/telehit.png", Telehit Latino
@@ -161,3 +123,4 @@ http://177.53.154.70:9981/stream/channelid/703812393?profile=pass
 http://177.53.154.70:9981/stream/channelid/634506210?profile=pass
 #EXTINF:0 type="stream" channelId="2553" logo="https://www.lomino.net.pe/canales/bethel.png", Bethel
 http://177.53.154.70:9981/stream/channelid/951428338?profile=pass
+

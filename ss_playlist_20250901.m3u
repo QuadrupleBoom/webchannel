@@ -1,126 +1,35 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="2542" logo="https://www.lomino.net.pe/canales/tvperu.png", TV Peru
-http://177.53.154.70:9981/stream/channelid/964667070?profile=pass
-#EXTINF:0 type="stream" channelId="962" logo="https://www.lomino.net.pe/canales/atv.png", ATV
-http://177.53.154.70:9981/stream/channelid/2100379705?profile=pass
-#EXTINF:0 type="stream" channelId="2324" logo="https://www.lomino.net.pe/canales/latele.png", La Tele
-http://177.53.154.70:9981/stream/channelid/1658288856?profile=pass
-#EXTINF:0 type="stream" channelId="-1", M1
-http://195.189.60.31:8003/play/a09o/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", M2
-http://195.189.60.31:8003/play/a0f1/index.m3u8
-#EXTINF:0 type="stream" channelId="2549" logo="https://www.lomino.net.pe/canales/atvmas.png", ATV+
-http://177.53.154.70:9981/stream/channelid/153545844?profile=pass
-#EXTINF:0 type="stream" channelId="1426" logo="https://www.lomino.net.pe/canales/global.png", Global
-http://177.53.154.70:9981/stream/channelid/3281680?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/justiciatv.png", Justicia TV
-http://177.53.154.70:9981/stream/channelid/170996091?profile=pass
-#EXTINF:0 type="stream" channelId="2540" logo="https://www.lomino.net.pe/canales/espn.png", ESPN
-http://177.53.154.70:9981/stream/channelid/265736950?profile=pass
-#EXTINF:0 type="stream" channelId="344" logo="https://www.lomino.net.pe/canales/espn2.png", ESPN 2
-http://177.53.154.70:9981/stream/channelid/1942194991?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/liga1.png", Liga1
-http://177.53.154.70:9981/stream/channelid/1727336151?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/l1max.png", L1MAX
-http://177.53.154.70:9981/stream/channelid/705084862?profile=pass
-#EXTINF:0 type="stream" channelId="64" logo="https://www.lomino.net.pe/canales/cinecanal.png", Cinecanal
-http://177.53.154.70:9981/stream/channelid/342235355?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/star.png", Star
-http://177.53.154.70:9981/stream/channelid/1699354880?profile=pass
-#EXTINF:0 type="stream" channelId="1303" logo="https://www.lomino.net.pe/canales/fx.png", FX
-http://177.53.154.70:9981/stream/channelid/2049703496?profile=pass
-#EXTINF:0 type="stream" channelId="3743" logo="https://www.lomino.net.pe/canales/dhe.png", DHE
-http://177.53.154.70:9981/stream/channelid/917481431?profile=pass
-#EXTINF:0 type="stream" channelId="1719" logo="https://www.lomino.net.pe/canales/paramount.png", Paramount
-http://177.53.154.70:9981/stream/channelid/1468853238?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/dpelicula.png", DPelicula
-http://177.53.154.70:9981/stream/channelid/1933789699?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/goldenplus.png", Golden+
-http://177.53.154.70:9981/stream/channelid/1963066747?profile=pass
-#EXTINF:0 type="stream" channelId="187" logo="https://www.lomino.net.pe/canales/universal.png", Universal
-http://177.53.154.70:9981/stream/channelid/1369221993?profile=pass
-#EXTINF:0 type="stream" channelId="333" logo="https://www.lomino.net.pe/canales/golden.png", Golden
-http://177.53.154.70:9981/stream/channelid/1184711174?profile=pass
-#EXTINF:0 type="stream" channelId="2502" logo="https://www.lomino.net.pe/canales/goldenedge.png", Golden Edge
-http://177.53.154.70:9981/stream/channelid/1705546264?profile=pass
-#EXTINF:0 type="stream" channelId="3229" logo="https://www.lomino.net.pe/canales/usa.png", USA
-http://177.53.154.70:9981/stream/channelid/1009825522?profile=pass
-#EXTINF:0 type="stream" channelId="1573" logo="https://www.lomino.net.pe/canales/axn.png", AXN
-http://177.53.154.70:9981/stream/channelid/782703881?profile=pass
-#EXTINF:0 type="stream" channelId="188" logo="https://www.lomino.net.pe/canales/sony.png", Sony
-http://177.53.154.70:9981/stream/channelid/1380582614?profile=pass
-#EXTINF:0 type="stream" channelId="1208" logo="https://www.lomino.net.pe/canales/aye.png", A&E
-http://177.53.154.70:9981/stream/channelid/1034393438?profile=pass
-#EXTINF:0 type="stream" channelId="-1", MoniTV
-https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2625" logo="https://www.lomino.net.pe/canales/studiouniversal.png", Studio Universal
-http://177.53.154.70:9981/stream/channelid/1564785158?profile=pass
-#EXTINF:0 type="stream" channelId="1214" logo="https://www.lomino.net.pe/canales/sonymovies.png", Sony Movies
-http://177.53.154.70:9981/stream/channelid/1001808328?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/dpeliculaplus.png", DPelicula+
-http://177.53.154.70:9981/stream/channelid/1795408593?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/goldenpremier2.png", Golden Premiere 2
-http://177.53.154.70:9981/stream/channelid/1980603996?profile=pass
-#EXTINF:0 type="stream" channelId="4804" logo="https://www.lomino.net.pe/canales/willax.png", Willax
-http://177.53.154.70:9981/stream/channelid/421291249?profile=pass
-#EXTINF:0 type="stream" channelId="1188" logo="https://www.lomino.net.pe/canales/e.png", E!
-http://177.53.154.70:9981/stream/channelid/1842471982?profile=pass
-#EXTINF:0 type="stream" channelId="2545" logo="https://www.lomino.net.pe/canales/latina.png", Latina
-http://177.53.154.70:9981/stream/channelid/1110626827?profile=pass
-#EXTINF:0 type="stream" channelId="1200" logo="https://www.lomino.net.pe/canales/lifetime.png", Lifetime
-http://177.53.154.70:9981/stream/channelid/877797858?profile=pass
-#EXTINF:0 type="stream" channelId="1961" logo="https://www.lomino.net.pe/canales/distritocomedia.png", Distrito Comedia
-http://177.53.154.70:9981/stream/channelid/1199816891?profile=pass
-#EXTINF:0 type="stream" channelId="3789" logo="https://www.lomino.net.pe/canales/telefe.png", Telefe
-http://177.53.154.70:9981/stream/channelid/1580738470?profile=pass
-#EXTINF:0 type="stream" channelId="1190" logo="https://www.lomino.net.pe/canales/comedycentral.png", Comedy Central
-http://177.53.154.70:9981/stream/channelid/1458179531?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Warner TV
-https://cdn4.skygo.mn/live/disk1/Warner/HLSv3-FTA/Warner.m3u8
-#EXTINF:0 type="stream" channelId="-1", big
-https://live20.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", Fashion
-https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u
-#EXTINF:0 type="stream" channelId="2504" logo="https://www.lomino.net.pe/canales/tlnovelas.png", TLNovelas
-http://177.53.154.70:9981/stream/channelid/1114505336?profile=pass
-#EXTINF:0 type="stream" channelId="1954" logo="https://www.lomino.net.pe/canales/lasestrellas.png", Las Estrellas
-http://177.53.154.70:9981/stream/channelid/1718960791?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Nickelodeon
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
-#EXTINF:0 type="stream" channelId="-1", Nick Jr.
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
-#EXTINF:0 type="stream" channelId="-1", Cartoon Channel PH
-https://live20.bozztv.com/akamaissh101/ssh101/toonchannelph/playlist.m3u8
-#EXTINF:0 type="stream" channelId="19" logo="https://www.lomino.net.pe/canales/disney.png", Disney Channel
-http://177.53.154.70:9981/stream/channelid/2070145001?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/disneyjr.png", Disney Jr
-http://177.53.154.70:9981/stream/channelid/1712901419?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Cartoon Network
-https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/dreamworks.png", Dreamworks
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
-#EXTINF:0 type="stream" channelId="-1", Cbeebies
-https://cdn4.skygo.mn/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
-#EXTINF:0 type="stream" channelId="-1", CBBC
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-#EXTINF:0 type="stream" channelId="56" logo="https://www.lomino.net.pe/canales/natgeo.png", Nat Geo
-http://177.53.154.70:9981/stream/channelid/611322685?profile=pass
-#EXTINF:0 type="stream" channelId="1455" logo="https://www.lomino.net.pe/canales/history.png", History Channel
-http://177.53.154.70:9981/stream/channelid/1059436452?profile=pass
-#EXTINF:0 type="stream" channelId="1201" logo="https://www.lomino.net.pe/canales/history2.png", History 2
-http://177.53.154.70:9981/stream/channelid/656141484?profile=pass
-#EXTINF:0 type="stream" channelId="1967" logo="https://www.lomino.net.pe/canales/telemundo.png", Telemundo
-http://177.53.154.70:9981/stream/channelid/564566470?profile=pass
-#EXTINF:0 type="stream" channelId="-1", Amor 101.3 FM
-https://live20.bozztv.com/akamaissh101/ssh101/amor101tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="3209" logo="https://www.lomino.net.pe/canales/univision.png", Univision
-http://177.53.154.70:9981/stream/channelid/1136052604?profile=pass
-#EXTINF:0 type="stream" channelId="1966" logo="https://www.lomino.net.pe/canales/telehitmusica.png", Telehit
-http://177.53.154.70:9981/stream/channelid/2114855691?profile=pass
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.lomino.net.pe/canales/telehit.png", Telehit Latino
-http://177.53.154.70:9981/stream/channelid/703812393?profile=pass
-#EXTINF:0 type="stream" channelId="1959" logo="https://www.lomino.net.pe/canales/bandamax.png", Bandamax
-http://177.53.154.70:9981/stream/channelid/634506210?profile=pass
-#EXTINF:0 type="stream" channelId="2553" logo="https://www.lomino.net.pe/canales/bethel.png", Bethel
-http://177.53.154.70:9981/stream/channelid/951428338?profile=pass
-
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png", M1 HD
+http://185.236.230.212:9981/play/a09z
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/en/a/ab/M2_logo_2012.png", M2 HD
+http://185.236.230.212:9981/play/a0a0
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png", M4 SPORT HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=51193&extension=ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/M5logo.png", M5 HD
+http://195.189.60.31:8003/play/a0cl
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Duna_logo.svg", DUNA HD
+http://195.189.60.31:8003/play/a0a0
+#EXTINF:0 type="stream" channelId="-1", DUNA WORLD / M4 SPORT+ HD
+http://185.236.230.212:9981/play/a0an
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png", NPO 1 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151287&extension=ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png", NPO 2 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151284&extension=ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/1200px-NPO_3_logo_2018.svg.png", NPO 3 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151283&extension=ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTL_4_Logo_2016.svg/250px-RTL_4_Logo_2016.svg.png", RTL 4 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151282&extension=ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/RTL5_logo_2012-2017.png", RTL 5 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151281&extension=ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/RTL_7_nl_Logo.svg/2560px-RTL_7_nl_Logo.svg.png", RTL 7 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151279&extension=ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RTL8_logo_2012.png/120px-RTL8_logo_2012.png", RTL 8 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151277&extension=ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/RTL_Z_logo_2015.png", RTL Z HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151278&extension=ts
+#EXTINF:0 type="stream" channelId="-1", SBS 6 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151280&extension=ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Net5_Logo_2023.jpg/250px-Net5_Logo_2023.jpg", NET5 HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151275&extension=ts
+#EXTINF:0 type="stream" channelId="-1" logo="https://tvgidsassets.nl/v360/img/channels/120x120/480.png", VERONICA / DISNEY JR HD
+http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=184208&extension=ts

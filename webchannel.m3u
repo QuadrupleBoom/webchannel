@@ -1,143 +1,141 @@
-#EXTM3U
-#EXTINF:-1 logo="https://webchnl.live/assets/img/channelicons/eel_ch.png", Eel Channel
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz" 
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://webchnl.live/assets/img/channelicons/eel_ch.png", Eel Channel
 https://rhine.webchnl.live/memfs/ee44b078-5b16-4484-b054-76079dc2d45c.m3u8
-#EXTINF:-1 logo="https://webchnl.live/assets/img/channelicons/spark.png", Spark
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://webchnl.live/assets/img/channelicons/spark.png", Spark
 https://rhine.webchnl.live/memfs/52b4200e-6ea9-4119-be31-0e73fa9c7d64.m3u8
-#EXTINF:-1 logo="https://webchnl.live/assets/img/channelicons/whiplash.png", Whiplash
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://webchnl.live/assets/img/channelicons/whiplash.png", Whiplash
 https://rhine.webchnl.live/memfs/ac0f016c-e39c-4fa5-885d-b90aec65b076.m3u8
-#EXTINF:-1 logo="https://gia.tv/streams/logo/209905.png?1757222300", Cartoon Channel PH
-https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/playlist.m3u8
-#EXTINF:-1 logo="https://ssh101.com/img/monitvhd.jpg?1757222394", Money Channel
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="https://ssh101.com/img/monitvhd.jpg?1757222394", Money Channel
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
-#EXTINF:-1 logo="https://ssh101.com/img/amor101tv.jpg?1757222394", Amor 101.3
+#EXTINF:-1 tvg-id="Music.Dummy.us" tvg-logo="https://ssh101.com/img/amor101tv.jpg?1757222394", Amor 101.3
 https://live20.bozztv.com/akamaissh101/ssh101/amor101tv/playlist.m3u8
-#EXTINF:-1 logo="https://files.catbox.moe/s2bwf1.png", Dreamworks (Mandarin)
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live017/index.m3u8
-#EXTINF:-1 logo="https://gia.tv/streams/pstream/210004.png?1757222374", MediaCartoon
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://gia.tv/streams/pstream/210004.png?1757222374", MediaCartoon
 https://live20.bozztv.com/giatvplayout7/giatv-210004/playlist.m3u8
-#EXTINF:-1 logo="https://ssh101.com/img/livess.jpg?1757222394", LiveProducciones
-https://live20.bozztv.com/akamaissh101/ssh101/livess/playlist.m3u8
-#EXTINF:-1 logo="https://gia.tv/streams/logo/208388.png?1757222374", FunTV
-https://live20.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
-#EXTINF:-1 logo="https://yt3.googleusercontent.com/oFrAbWveSRbde-CXBK7IiZc82Jc66uUSJfG137_ur_du9m7bODrKQGdH0gYBmJTARtpvnYuh=s900-c-k-c0x00ffffff-no-rj", Disney Channel (Asia)
+#EXTINF:-1 tvg-id="Disney.Channel.hu" tvg-logo="https://yt3.googleusercontent.com/oFrAbWveSRbde-CXBK7IiZc82Jc66uUSJfG137_ur_du9m7bODrKQGdH0gYBmJTARtpvnYuh=s900-c-k-c0x00ffffff-no-rj", Disney Channel (Asia)
 http://185.236.230.212:9981/play/a0bc
-#EXTINF:-1 logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj", Disney Junior (Asia)
+#EXTINF:-1 tvg-id="DISNEY.JUNIOR.in" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj", Disney Junior (Asia)
 http://103.182.170.32:8888/play/a03q
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-Kh2icA4mMfVzNMX8-8CWq3DEgTR9BYjSQ&s", Disney International (Asia)
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-Kh2icA4mMfVzNMX8-8CWq3DEgTR9BYjSQ&s", Disney International (Asia)
 http://103.182.170.32:8888/play/a01y
-#EXTINF:-1 logo="https://yt3.googleusercontent.com/N-jXKKYn9WpT2XLXSD6yKpuFzB9f6rIV0_Zw0Yb0TroP6nOE5dCVNZLYQsDzV9hEfhpo1NpHHA=s900-c-k-c0x00ffffff-no-rj", Cartoon Network (Asia)
+#EXTINF:-1 tvg-id="Cartoon.Network.hk" tvg-logo="https://yt3.googleusercontent.com/N-jXKKYn9WpT2XLXSD6yKpuFzB9f6rIV0_Zw0Yb0TroP6nOE5dCVNZLYQsDzV9hEfhpo1NpHHA=s900-c-k-c0x00ffffff-no-rj", Cartoon Network (Asia)
 http://161.49.17.2:6610/001/2/ch00000090990000001178/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMaZEZMirGZoefNBSI_2nqkorgxGMruhJeNg&s", Cartoonito (Asia)
+#EXTINF:-1 tvg-id="Cartoonito.(HD).sg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMaZEZMirGZoefNBSI_2nqkorgxGMruhJeNg&s", Cartoonito (Asia)
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 logo="https://files.catbox.moe/ddd317.png", DoTheETVBalBharatETVBalBharat
+#EXTINF:-1 tvg-id="ETV.BAL.BHARAT.in" tvg-logo="https://files.catbox.moe/ddd317.png", DoTheETVBalBharatETVBalBharat
 http://103.182.170.32:8888/play/a022
-#EXTINF:-1 logo="https://static-cdn.jtvnw.net/jtv_user_pictures/50b78043-3108-4eca-80a8-33ea1e5e9d1d-profile_image-300x300.png", Nickelodeon (Asia)
+#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://images.indihometv.com/assets/88_RTV_2025_03_17_14_55_38.png",RTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
+#EXTINF:-1 tvg-id="DreamWorks.hk" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_47.png", Dreamworks 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.hk" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/50b78043-3108-4eca-80a8-33ea1e5e9d1d-profile_image-300x300.png", Nickelodeon (Asia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
-#EXTINF:-1 logo="https://pbs.twimg.com/profile_images/1682087222537756680/BCh_FNy8_400x400.jpg", Nick Jr. (Asia)
+#EXTINF:-1 tvg-id="Nick.Jr..hk" tvg-logo="https://pbs.twimg.com/profile_images/1682087222537756680/BCh_FNy8_400x400.jpg", Nick Jr. (Asia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
-#EXTINF:-1 logo="https://akilinetwork.com/wp-content/uploads/2024/12/AKILI_TV_BANNER_PRESS_RELEASE-1024x536.png", Akili TV
+#EXTINF:-1 tvg-id="Akili.Kids.ke" tvg-logo="https://akilinetwork.com/wp-content/uploads/2024/12/AKILI_TV_BANNER_PRESS_RELEASE-1024x536.png", Akili TV
 https://5b622f07944df.streamlock.net/akilikids.co.ke/akilikids.smil/chunklist_w1702323571_b2528000_slke.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eLOsBN-VRtaPS3_Flm4523fNN2Vsr1gofDzrbHMfyh4UNOQlesGcr44d-MAuY8AHJyw&usqp=CAU", EBC YoYo (Asia)
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eLOsBN-VRtaPS3_Flm4523fNN2Vsr1gofDzrbHMfyh4UNOQlesGcr44d-MAuY8AHJyw&usqp=CAU", EBC YoYo (Asia)
 http://60.246.171.122:8890/bysid/67
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-one-uk.png", BBC ONE HD
+#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-one-uk.png", BBC ONE HD
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=38260&extension=ts
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-two-uk.png`", BBC TWO HD
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-two-uk.png", BBC TWO HD
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-three-cbbc-uk.png", BBC THREE / CBBC HD
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-three-cbbc-uk.png", BBC THREE / CBBC HD
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-four-cbeebies-uk.png", BBC FOUR / CBEEBIES HD
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-four-cbeebies-uk.png", BBC FOUR / CBEEBIES HD
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png", M1
+#EXTINF:-1 tvg-id="m1.HD.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png", M1
 http://185.236.230.212:9981/play/a09z
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/a/ab/M2_logo_2012.png", M2
+#EXTINF:-1 tvg-id="m2.HD.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/M2_logo_2012.png", M2
 http://185.236.230.212:9981/play/a0a0
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png", M4 SPORT
+#EXTINF:-1 tvg-id="m4.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png", M4 SPORT
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=51193&extension=ts
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/M5logo.png", M5 HD
+#EXTINF:-1 tvg-id="m5.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/M5logo.png", M5 HD
 http://195.189.60.31:8003/play/a0cl
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png", DUNA
+#EXTINF:-1 tvg-id="Duna.TV.hu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png", DUNA
 http://195.189.60.31:8003/play/a0a0
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-world-hu.png", DUNA WORLD / M4 SPORT+
+#EXTINF:-1 tvg-id="Duna.World.hu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-world-hu.png", DUNA WORLD / M4 SPORT+
 http://185.236.230.212:9981/play/a0an
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-2-ae.png", MBC 2
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-2-ae.png", MBC 2
 http://176.65.146.100:8033/play/a06f
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-3-ae.png", MBC 3
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-3-ae.png", MBC 3
 http://176.65.146.100:8033/play/a06d
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-4-ae.png", MBC 4
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-4-ae.png", MBC 4
 http://176.65.146.100:8033/play/a06c
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-5-ae.png", MBC 5
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-5-ae.png", MBC 5
 http://176.65.146.100:8033/play/a06f
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png", NPO 1 HD
+#EXTINF:-1 tvg-id="NPO.1.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png", NPO 1 HD
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151287&extension=ts
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png", NPO 2 HD
+#EXTINF:-1 tvg-id="NPO.2.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png", NPO 2 HD
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151284&extension=ts
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/1200px-NPO_3_logo_2018.svg.png", NPO 3 HD
+#EXTINF:-1 tvg-id="NPO.3.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/1200px-NPO_3_logo_2018.svg.png", NPO 3 HD
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151283&extension=ts
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-au.png",Network 10
+#EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-au.png",Network 10
 http://44.32.200.212:5004/auto/v10
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-comedy-au.png",10 comedy
+#EXTINF:-1 tvg-id="10PeachMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-comedy-au.png",10 comedy
 http://44.32.200.212:5004/auto/v11
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-drama-au.png",10 drama
+#EXTINF:-1 tvg-id="10BoldMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-drama-au.png",10 drama
 http://44.32.200.212:5004/auto/v12
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nickelodeon-au.png",13 Nickelodeon
+#EXTINF:-1 tvg-id="NickelodeonMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nickelodeon-au.png",Nickelodeon
 http://44.32.200.212:5004/auto/v13
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-hd-au.png",10 HD
+#EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-hd-au.png",10 HD
 http://44.32.200.212:5004/auto/v15
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/you-tv-au.png",you.tv
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/you-tv-au.png",you.tv
 http://44.32.200.212:5004/auto/v16
-#EXTINF:-1  logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/spree-tv-au.png",gecko
+#EXTINF:-1  tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/spree-tv-au.png",gecko
 http://44.32.200.212:5004/auto/v17
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-hd-au.png",ABC TV HD
+#EXTINF:-1 tvg-id="ABCMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-hd-au.png",ABC TV HD
 http://44.32.200.212:5004/auto/v20
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-au.png",ABC TV
+#EXTINF:-1 tvg-id="ABCMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-au.png",ABC TV
 http://44.32.200.212:5004/auto/v21
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-kids-au.png",ABC Kids/ABC Family
+#EXTINF:-1 tvg-id="ABCFamilyMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-kids-au.png",ABC Kids/ABC Family
 http://44.32.200.212:5004/auto/v22
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-entertains-au.png",ABC Entertains
+#EXTINF:-1 tvg-id="ABCEntertainsMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-entertains-au.png",ABC Entertains
 http://44.32.200.212:5004/auto/v23
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-news-au.png",ABC NEWS
+#EXTINF:-1 tvg-id="ABCNewsMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-news-au.png",ABC NEWS
 http://44.32.200.212:5004/auto/v24
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-au.png",SBS HD
+#EXTINF:-1 tvg-id="SBSMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-au.png",SBS HD
 http://44.32.200.212:5004/auto/v30
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-viceland-au.png",SBS VICELAND HD
+#EXTINF:-1 tvg-id="SBSVicelandMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-viceland-au.png",SBS VICELAND HD
 http://44.32.200.212:5004/auto/v31
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-world-movies-au.png",SBS World Movies
+#EXTINF:-1 tvg-id="SBSWorldMoviesMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-world-movies-au.png",SBS World Movies
 http://44.32.200.212:5004/auto/v32
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-food-au.png",SBS Food
+#EXTINF:-1 tvg-id="SBSFoodMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-food-au.png",SBS Food
 http://44.32.200.212:5004/auto/v33
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-world-watch-au.png",SBS WorldWatch
+#EXTINF:-1 tvg-id="SBSWorldWatchMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-world-watch-au.png",SBS WorldWatch
 http://44.32.200.212:5004/auto/v35
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nitv-au.png",NITV
+#EXTINF:-1 tvg-id="NITVMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nitv-au.png",NITV
 http://44.32.200.212:5004/auto/v36
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/c31-au.png",C31
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/c31-au.png",C31
 http://44.32.200.212:5004/auto/v44
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/seven-hd-au.png",7 HD
+#EXTINF:-1 tvg-id="7Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/seven-hd-au.png",7 HD
 http://44.32.200.212:5004/auto/v70
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/seven-au.png",Network Seven
+#EXTINF:-1 tvg-id="7Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/seven-au.png",Network 7
 http://44.32.200.212:5004/auto/v71
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7two-au.png",7TWO
+#EXTINF:-1 tvg-id="7TWOMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7two-au.png",7TWO
 http://44.32.200.212:5004/auto/v72
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7mate-au.png",7mate
+#EXTINF:-1 tvg-id="7mateMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7mate-au.png",7mate
 http://44.32.200.212:5004/auto/v74
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7bravo-au.png",7Bravo
+#EXTINF:-1 tvg-id="7Bravo.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7bravo-au.png",7Bravo
 http://44.32.200.212:5004/auto/v75
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7flix-au.png",7flix
+#EXTINF:-1 tvg-id="7flixMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7flix-au.png",7flix
 http://44.32.200.212:5004/auto/v76
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/tvsn-au.png",TVSN
+#EXTINF:-1 tvg-id="TVSN.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/tvsn-au.png",TVSN
 http://44.32.200.212:5004/auto/v77
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/racing-com-au.png",RACING.COM
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/racing-com-au.png",RACING.COM
 http://44.32.200.212:5004/auto/v78
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-au.png",Channel 9
+#EXTINF:-1 tvg-id="9Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-au.png",Channel 9
 http://44.32.200.212:5004/auto/v91
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-gem-au.png",9Gem
+#EXTINF:-1 tvg-id="9GemMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-gem-au.png",9Gem
 http://44.32.200.212:5004/auto/v92
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-go-au.png",9Go!
+#EXTINF:-1 tvg-id="9GoMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-go-au.png",9Go!
 http://44.32.200.212:5004/auto/v93
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-life-au.png",9Life
+#EXTINF:-1 tvg-id="9LifeMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-life-au.png",9Life
 http://44.32.200.212:5004/auto/v94
-#EXTINF:-1 logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-rush-au.png",9Rush
+#EXTINF:-1 tvg-id="9RushMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-rush-au.png",9Rush
 http://44.32.200.212:5004/auto/v96
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Extra_TV_logo.png",Extra
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Extra_TV_logo.png",Extra
 http://44.32.200.212:5004/auto/v97

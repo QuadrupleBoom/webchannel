@@ -37,6 +37,20 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
 #EXTINF:-1 tvg-id="Akili.Kids.ke" tvg-logo="https://akilinetwork.com/wp-content/uploads/2024/12/AKILI_TV_BANNER_PRESS_RELEASE-1024x536.png", Akili TV
 https://5b622f07944df.streamlock.net/akilikids.co.ke/akilikids.smil/chunklist_w1702323571_b2528000_slke.m3u8
+#EXTINF:-1,ViuTV
+http://113.253.154.66:9981/stream/channelid/1?ticket=E2144A26CC600CF55625A98EB10287000AF74C0F
+#EXTINF:-1,ViuTVsix
+http://113.253.154.66:9981/stream/channelid/3?ticket=B44E0238B1716FC7CFF77217E849303C6BAB5910
+#EXTINF:-1,Jade
+http://113.253.154.66:9981/stream/channelid/2?ticket=E30E83C84C23FB4D5590FC9069B900E689569D2C
+#EXTINF:-1,Pearl
+http://113.253.154.66:9981/stream/channelid/4?ticket=E058836C7A142E3A98FBD100A61A2CB5DFEA8E14
+#EXTINF:-1,HOY IBC
+http://113.253.154.66:9981/stream/channelid/9?ticket=BB28D01F2CADC2910585A94D6443531ED5337576
+#EXTINF:-1,HOY Infotainment
+http://113.253.154.66:9981/stream/channelid/8?ticket=36D3A276EF84D57CAF695AC1421BCAB15BA9B073
+#EXTINF:-1,HOY TV
+http://113.253.154.66:9981/stream/channelid/10?ticket=35A42E5DCBE531E2ECD3EA625E8D3F09FD3ADEA1
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eLOsBN-VRtaPS3_Flm4523fNN2Vsr1gofDzrbHMfyh4UNOQlesGcr44d-MAuY8AHJyw&usqp=CAU", EBC YoYo (Asia)
 http://60.246.171.122:8890/bysid/67
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-one-uk.png", BBC ONE HD

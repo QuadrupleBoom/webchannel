@@ -23,9 +23,9 @@ http://45.190.187.183:8080/play/a1eu
 http://83.63.50.226:9981/stream/channelid/1186466677?ticket=CEE63BC1845FB1830DFE53A889EB05F5724B84B5&profile=pass
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_ORJ5_6QYFL9jLvctOP5G3mrbniGynPSZw&s", PBS Kids
 http://38.15.55.221:5004/auto/v6.2
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://yt3.googleusercontent.com/2fjzh2Onc97Ykk3quISjdduj-8znMKSXi_Zj5Ml9DP6aY0GlaHOByj5pjkVmxBAnh51pinM3=s900-c-k-c0x00ffffff-no-rj", PBS Create
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://yt3.googleusercontent.com/2fjzh2Onc97Ykk3quISjdduj-8znMKSXi_Zj5Ml9DP6aY0GlaHOByj5pjkVmxBAnh51pinM3=s900-c-k-c0x00ffffff-no-rj", PBS Create
 http://38.15.55.221:5004/auto/v6.3
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F6a0b10be-4884-488d-a43e-3798dc03414e-1708523988.429756.256x256.png&w=256&q=75", Bark
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://freecast.com/_next/image?url=https%3A%2F%2Fd3e3bui7xn67l.cloudfront.net%2Fcms_media%2Fmedia%2Flive%2Fchannel%2F6a0b10be-4884-488d-a43e-3798dc03414e-1708523988.429756.256x256.png&w=256&q=75", Bark
 http://108.14.66.42:5004/auto/v18.8
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkso4uSvNlHo7EFjt6QtkO15-QchyoKYYwSg&s", MeTV Toons
 http://38.15.55.221:5004/auto/v59.8
@@ -33,6 +33,10 @@ http://38.15.55.221:5004/auto/v59.8
 http://45.190.187.183:8080/play/a1de
 #EXTINF:-1 tvg-id="ETV.BAL.BHARAT.in" tvg-logo="https://i.imgur.com/QQry6bW.png", DoTheETVBalBharatETVBalBharat
 http://103.182.170.32:8888/play/a022
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://i.imgur.com/R5kerYG.png", Aqlvoy
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/20180/index.m3u8
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://lh3.ggpht.com/rqtTqlyiE4cI1qzvoKkfdFWpfTcBMZo3hhADqxc3sOse8yMX7ZnSdKE_rW9NSPVEZ9I=s300", TiJi
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/9180/index.m3u8
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kuXhhDPFSD1jFpNTHEr5j3J_MX9h7mvWDv9J_82n_ixqw=s900-c-k-c0x00ffffff-no-rj", English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20250217T210812SQUARE.png",Kartoon Channel
@@ -67,6 +71,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
 https://5b622f07944df.streamlock.net/akilikids.co.ke/akilikids.smil/chunklist_w1702323571_b2528000_slke.m3u8
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eLOsBN-VRtaPS3_Flm4523fNN2Vsr1gofDzrbHMfyh4UNOQlesGcr44d-MAuY8AHJyw&usqp=CAU", EBC YoYo (Asia)
 http://60.246.171.122:8890/bysid/67
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://i.imgur.com/G5nwYds.png", Kids TV
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/20008/index.m3u8
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-one-uk.png", BBC ONE HD
 http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=38260&extension=ts
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-two-uk.png", BBC TWO HD

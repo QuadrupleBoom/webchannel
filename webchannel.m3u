@@ -19,6 +19,8 @@ http://103.182.170.32:8888/play/a03q
 http://103.182.170.32:8888/play/a01y
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMaZEZMirGZoefNBSI_2nqkorgxGMruhJeNg&s", Cartoonito
 http://45.190.187.183:8080/play/a1eu
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TVO_logo_as_of_2008.svg/1200px-TVO_logo_as_of_2008.svg.png", TVO
+http://204.15.194.229:5004/auto/v19.1
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://play-lh.googleusercontent.com/APpy6nTfufeCLmKb83Jc_uhDegiEgmUckqKdpDbhw0HbiDCqH2GkOWL-P5zq9D8Sd5k", Clan TVE
 http://83.63.50.226:9981/stream/channelid/1186466677?ticket=CEE63BC1845FB1830DFE53A889EB05F5724B84B5&profile=pass
 #EXTINF:-1 tvg-id="HBO.Family.co" tvg-logo="https://i.imgur.com/N6BRtRN.png", HBO Family

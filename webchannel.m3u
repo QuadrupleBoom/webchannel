@@ -72,29 +72,15 @@ https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.
 #EXTINF:-1 tvg-id="m1.HD.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png", M1
 http://185.236.230.212:9981/play/a09z
 #EXTINF:-1 tvg-id="m2.HD.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/M2_logo_2012.png", M2
-http://185.236.230.212:9981/play/a0a0
+http://195.189.60.31:8003/play/a09x
 #EXTINF:-1 tvg-id="m4.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png", M4 SPORT
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=51193&extension=ts
+http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/31519/index.m3u8
 #EXTINF:-1 tvg-id="m5.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/M5logo.png", M5 HD
 http://195.189.60.31:8003/play/a0cl
 #EXTINF:-1 tvg-id="Duna.TV.hu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png", DUNA
 http://195.189.60.31:8003/play/a0a0
-#EXTINF:-1 tvg-id="Duna.World.hu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-world-hu.png", DUNA WORLD / M4 SPORT+
+#EXTINF:-1 tvg-id="Duna.World.hu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-world-hu.png", DUNA WORLD
 http://185.236.230.212:9981/play/a0an
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-2-ae.png", MBC 2
-http://176.65.146.100:8033/play/a06f
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-3-ae.png", MBC 3
-http://176.65.146.100:8033/play/a06d
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-4-ae.png", MBC 4
-http://176.65.146.100:8033/play/a06c
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-5-ae.png", MBC 5
-http://176.65.146.100:8033/play/a06f
-#EXTINF:-1 tvg-id="NPO.1.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1200px-NPO_1_logo_2014.svg.png", NPO 1 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151287&extension=ts
-#EXTINF:-1 tvg-id="NPO.2.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png", NPO 2 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151284&extension=ts
-#EXTINF:-1 tvg-id="NPO.3.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/1200px-NPO_3_logo_2018.svg.png", NPO 3 HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=151283&extension=ts
 #EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-au.png",Network 10
 http://44.32.200.212:5004/auto/v10
 #EXTINF:-1 tvg-id="10PeachMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-comedy-au.png",10 comedy

@@ -17,12 +17,8 @@ http://185.236.230.212:9981/play/a0bc
 http://103.182.170.32:8888/play/a03q
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-Kh2icA4mMfVzNMX8-8CWq3DEgTR9BYjSQ&s", Disney International (Asia)
 http://103.182.170.32:8888/play/a01y
-#EXTINF:-1 tvg-id="Cartoon.Network.hk" tvg-logo="https://yt3.googleusercontent.com/N-jXKKYn9WpT2XLXSD6yKpuFzB9f6rIV0_Zw0Yb0TroP6nOE5dCVNZLYQsDzV9hEfhpo1NpHHA=s900-c-k-c0x00ffffff-no-rj", Cartoon Network (Asia)
-http://161.49.17.2:6610/001/2/ch00000090990000001178/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMaZEZMirGZoefNBSI_2nqkorgxGMruhJeNg&s", Cartoonito SD
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMaZEZMirGZoefNBSI_2nqkorgxGMruhJeNg&s", Cartoonito
 http://45.190.187.183:8080/play/a1eu
-#EXTINF:-1 tvg-id="Cartoonito.(HD).sg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMaZEZMirGZoefNBSI_2nqkorgxGMruhJeNg&s", Cartoonito (Asia)
-http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-id="HBO.Family.co" tvg-logo="https://i.imgur.com/N6BRtRN.png", HBO Family
 http://45.190.187.183:8080/play/a1de
 #EXTINF:-1 tvg-id="ETV.BAL.BHARAT.in" tvg-logo="https://i.imgur.com/QQry6bW.png", DoTheETVBalBharatETVBalBharat

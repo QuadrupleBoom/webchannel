@@ -19,16 +19,10 @@ http://103.182.170.32:8888/play/a03q
 http://103.182.170.32:8888/play/a01y
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMaZEZMirGZoefNBSI_2nqkorgxGMruhJeNg&s", Cartoonito
 http://45.190.187.183:8080/play/a1eu
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://play-lh.googleusercontent.com/APpy6nTfufeCLmKb83Jc_uhDegiEgmUckqKdpDbhw0HbiDCqH2GkOWL-P5zq9D8Sd5k", Clan TVE
-http://83.63.50.226:9981/stream/channelid/1186466677?ticket=CEE63BC1845FB1830DFE53A889EB05F5724B84B5&profile=pass
 #EXTINF:-1 tvg-id="HBO.Family.co" tvg-logo="https://i.imgur.com/N6BRtRN.png", HBO Family
 http://45.190.187.183:8080/play/a1de
 #EXTINF:-1 tvg-id="ETV.BAL.BHARAT.in" tvg-logo="https://i.imgur.com/QQry6bW.png", DoTheETVBalBharatETVBalBharat
 http://103.182.170.32:8888/play/a022
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://i.imgur.com/R5kerYG.png", Aqlvoy
-http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/20180/index.m3u8
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://lh3.ggpht.com/rqtTqlyiE4cI1qzvoKkfdFWpfTcBMZo3hhADqxc3sOse8yMX7ZnSdKE_rW9NSPVEZ9I=s300", TiJi
-http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/9180/index.m3u8
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kuXhhDPFSD1jFpNTHEr5j3J_MX9h7mvWDv9J_82n_ixqw=s900-c-k-c0x00ffffff-no-rj", English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20250217T210812SQUARE.png",Kartoon Channel
@@ -63,28 +57,12 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000118/1024.m3u8
 https://5b622f07944df.streamlock.net/akilikids.co.ke/akilikids.smil/chunklist_w1702323571_b2528000_slke.m3u8
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eLOsBN-VRtaPS3_Flm4523fNN2Vsr1gofDzrbHMfyh4UNOQlesGcr44d-MAuY8AHJyw&usqp=CAU", EBC YoYo (Asia)
 http://60.246.171.122:8890/bysid/67
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://i.imgur.com/G5nwYds.png", Kids TV
-http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/20008/index.m3u8
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-one-uk.png", BBC ONE HD
-http://d.tvdark.eu:80/play/live.php?mac=00:1A:79:b4:2f:4e&stream=38260&extension=ts
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-two-uk.png", BBC TWO HD
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-three-cbbc-uk.png", BBC THREE / CBBC HD
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-four-cbeebies-uk.png", BBC FOUR / CBEEBIES HD
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
-#EXTINF:-1 tvg-id="m1.HD.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/M1_2020.png", M1
-http://185.236.230.212:9981/play/a09z
-#EXTINF:-1 tvg-id="m2.HD.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/M2_logo_2012.png", M2
-http://195.189.60.31:8003/play/a09x
-#EXTINF:-1 tvg-id="m4.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png", M4 SPORT
-http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/31519/index.m3u8
-#EXTINF:-1 tvg-id="m5.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/M5logo.png", M5 HD
-http://195.189.60.31:8003/play/a0cl
-#EXTINF:-1 tvg-id="Duna.TV.hu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-hu.png", DUNA
-http://195.189.60.31:8003/play/a0a0
-#EXTINF:-1 tvg-id="Duna.World.hu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/duna-world-hu.png", DUNA WORLD
-http://185.236.230.212:9981/play/a0an
 #EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-au.png",Network 10
 http://44.32.200.212:5004/auto/v10
 #EXTINF:-1 tvg-id="10PeachMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-comedy-au.png",10 comedy

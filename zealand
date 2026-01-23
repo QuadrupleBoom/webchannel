@@ -1,12 +1,16 @@
-#EXTM3U x-tvg-url="http://121.74.22.14:62381/xmltv/channels, https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz"
-#EXTINF:-1 tvg-id="76a89cb909b69c1a97cb58d93143a815",Sky NZ/12483H/{PMT:43}
-http://121.74.22.14:62381/stream/channelid/966568054?profile=pass
-#EXTINF:-1 tvg-id="d3dc4f29c41bc0b200819c6228f237bb",Sky NZ/12484.8H/{PMT:43}
-http://121.74.22.14:62381/stream/channelid/693099731?profile=pass
-#EXTINF:-1 tvg-id="e3dfa5cfe2372fad8f64037a71bc11cd",Whakaata Maori
-http://121.74.22.14:62381/stream/channelid/1336270819?profile=pass
+#EXTM3U x-tvg-url="http://121.74.22.14:62381/xmltv/channels, https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz"
+#EXTINF:-1 tvg-id="930b2fc7fd51991183cc8bdc1c314bc5" tvg-chno="1",TVNZ 1
+http://121.74.22.14:62381/stream/channelid/1194265491?profile=pass
 #EXTINF:-1 tvg-id="cd5741575508c96f7867076eb2401d09" tvg-chno="2",TVNZ 2
 http://121.74.22.14:62381/stream/channelid/1463900109?profile=pass
+#EXTINF:-1 tvg-id="34793e5d4f3ca757f82ea5110fbc08b3" tvg-chno="402",Three
+http://121.74.22.14:62381/stream/channelid/1564375348?profile=pass
+#EXTINF:-1 tvg-id="0f8f66efa12a9acc94c182c832836e18" tvg-chno="501",TVNZ 1 +1
+http://121.74.22.14:62381/stream/channelid/1868992271?profile=pass
+#EXTINF:-1 tvg-id="56331c4928bc8bcdcf2d90366017236d" tvg-chno="502",TVNZ 2 +1
+http://121.74.22.14:62381/stream/channelid/1226584918?profile=pass
+#EXTINF:-1 tvg-id="82423c734dc474c4ffdd7172162a8eb7" tvg-chno="503",Three +1
+http://121.74.22.14:62381/stream/channelid/1933329026?profile=pass
 #EXTINF:-1 tvg-id="ae888c8a37f42e47bba22e0339f666f7" tvg-chno="4",Sky Open
 http://121.74.22.14:62381/stream/channelid/176982190?profile=pass
 #EXTINF:-1 tvg-id="8fa97e47e181a35fa11529829c69d040" tvg-chno="5",Sky 5
@@ -21,6 +25,8 @@ http://121.74.22.14:62381/stream/channelid/59494387?profile=pass
 http://121.74.22.14:62381/stream/channelid/198725676?profile=pass
 #EXTINF:-1 tvg-id="fc3a6b7b3871cbded3e3471e779cb397" tvg-chno="11",Sky Comedy
 http://121.74.22.14:62381/stream/channelid/2070625020?profile=pass
+#EXTINF:-1 tvg-id="c6da888d5f47cd1005f3df38f2a271a3" tvg-chno="405",Vibe
+http://121.74.22.14:62381/stream/channelid/227072710?profile=pass
 #EXTINF:-1 tvg-id="2b2e21ce9afd2ecd9dc1d0df6ef1737d" tvg-chno="12",Bravo
 http://121.74.22.14:62381/stream/channelid/1310797355?profile=pass
 #EXTINF:-1 tvg-id="37c8354c6baad7a964bc9e4f72e03ba7" tvg-chno="13",eden
@@ -41,8 +47,6 @@ http://121.74.22.14:62381/stream/channelid/1761465409?profile=pass
 http://121.74.22.14:62381/stream/channelid/191019497?profile=pass
 #EXTINF:-1 tvg-id="b637db220ff00bb0ba6c25a81033e79d" tvg-chno="30",Sky Movies Premiere
 http://121.74.22.14:62381/stream/channelid/584791990?profile=pass
-#EXTINF:-1 tvg-id="790d1983146b94f354f344a1f059e204" tvg-chno="31",Sky Movies Comedy
-http://121.74.22.14:62381/stream/channelid/51973497?profile=pass
 #EXTINF:-1 tvg-id="ccf2d682271ed5e1dfefddaac72ad0a9" tvg-chno="32",Sky Movies Action
 http://121.74.22.14:62381/stream/channelid/47641292?profile=pass
 #EXTINF:-1 tvg-id="8dffd20c127086d1de79c636b675b2d1" tvg-chno="33",Sky Movies Greats
@@ -121,17 +125,69 @@ http://121.74.22.14:62381/stream/channelid/561936986?profile=pass
 http://121.74.22.14:62381/stream/channelid/2096635755?profile=pass
 #EXTINF:-1 tvg-id="ba0d39c2218d05e612368651609b598e" tvg-chno="310",CGTN
 http://121.74.22.14:62381/stream/channelid/1111035322?profile=pass
-#EXTINF:-1 tvg-id="34793e5d4f3ca757f82ea5110fbc08b3" tvg-chno="402",Three
-http://121.74.22.14:62381/stream/channelid/1564375348?profile=pass
-#EXTINF:-1 tvg-id="c6da888d5f47cd1005f3df38f2a271a3" tvg-chno="405",Vibe
-http://121.74.22.14:62381/stream/channelid/227072710?profile=pass
-#EXTINF:-1 tvg-id="0f8f66efa12a9acc94c182c832836e18" tvg-chno="501",TVNZ 1 +1
-http://121.74.22.14:62381/stream/channelid/1868992271?profile=pass
-#EXTINF:-1 tvg-id="56331c4928bc8bcdcf2d90366017236d" tvg-chno="502",TVNZ 2 +1
-http://121.74.22.14:62381/stream/channelid/1226584918?profile=pass
-#EXTINF:-1 tvg-id="82423c734dc474c4ffdd7172162a8eb7" tvg-chno="503",ThreePlus1
-http://121.74.22.14:62381/stream/channelid/1933329026?profile=pass
-#EXTINF:-1 tvg-id="078eed71402858f780d32a5278a39400" tvg-chno="504",TVNZ DUKE+1
-http://121.74.22.14:62381/stream/channelid/1911393799?profile=pass
-#EXTINF:-1 tvg-id="930b2fc7fd51991183cc8bdc1c314bc5" tvg-chno="901",TVNZ 1
-http://121.74.22.14:62381/stream/channelid/1194265491?profile=pass
+#EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-au.png",Network 10
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v10
+#EXTINF:-1 tvg-id="10PeachMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-comedy-au.png",10 comedy
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v11
+#EXTINF:-1 tvg-id="10BoldMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-drama-au.png",10 drama
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v12
+#EXTINF:-1 tvg-id="NickelodeonMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nickelodeon-au.png",Nickelodeon
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v13
+#EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-hd-au.png",10 HD
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v15
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/you-tv-au.png",you.tv
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v16
+#EXTINF:-1  tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/spree-tv-au.png",gecko
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v17
+#EXTINF:-1 tvg-id="ABCMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-hd-au.png",ABC TV HD
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v20
+#EXTINF:-1 tvg-id="ABCMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-au.png",ABC TV
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v21
+#EXTINF:-1 tvg-id="ABCFamilyMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-kids-au.png",ABC Kids/ABC Family
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v22
+#EXTINF:-1 tvg-id="ABCEntertainsMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-entertains-au.png",ABC Entertains
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v23
+#EXTINF:-1 tvg-id="ABCNewsMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-news-au.png",ABC NEWS
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v24
+#EXTINF:-1 tvg-id="SBSMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-au.png",SBS HD
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v30
+#EXTINF:-1 tvg-id="SBSVicelandMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-viceland-au.png",SBS VICELAND HD
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v31
+#EXTINF:-1 tvg-id="SBSWorldMoviesMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-world-movies-au.png",SBS World Movies
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v32
+#EXTINF:-1 tvg-id="SBSFoodMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-food-au.png",SBS Food
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v33
+#EXTINF:-1 tvg-id="SBSWorldWatchMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-world-watch-au.png",SBS WorldWatch
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v35
+#EXTINF:-1 tvg-id="NITVMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nitv-au.png",NITV
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v36
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/c31-au.png",C31
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v44
+#EXTINF:-1 tvg-id="7Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/seven-hd-au.png",7 HD
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v70
+#EXTINF:-1 tvg-id="7Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/seven-au.png",Network 7
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v71
+#EXTINF:-1 tvg-id="7TWOMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7two-au.png",7two
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v72
+#EXTINF:-1 tvg-id="7mateMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7mate-au.png",7mate
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v74
+#EXTINF:-1 tvg-id="7Bravo.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7bravo-au.png",7Bravo
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v75
+#EXTINF:-1 tvg-id="7flixMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7flix-au.png",7flix
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v76
+#EXTINF:-1 tvg-id="TVSN.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/tvsn-au.png",TVSN
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v77
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/racing-com-au.png",RACING.COM
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v78
+#EXTINF:-1 tvg-id="9Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-au.png",Channel 9
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v91
+#EXTINF:-1 tvg-id="9GemMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-gem-au.png",9Gem
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v92
+#EXTINF:-1 tvg-id="9GoMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-go-au.png",9Go!
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v93
+#EXTINF:-1 tvg-id="9LifeMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-life-au.png",9Life
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v94
+#EXTINF:-1 tvg-id="9RushMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-rush-au.png",9Rush
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v96
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Extra_TV_logo.png",Extra
+http://cors.tundracast.com:2000/http://44.32.200.132:5004/auto/v97

@@ -1,129 +1,129 @@
-#EXTM3U x-tvg-url="http://121.74.22.14:62381/xmltv/channels,https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz,https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml"
-#EXTINF:-1 tvg-id="930b2fc7fd51991183cc8bdc1c314bc5" tvg-chno="1",TVNZ 1
+#EXTM3U x-tvg-url="http://121.74.22.14:62381/xmltv/channels, https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz, https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml"
+#EXTINF:-1 tvg-id="930b2fc7fd51991183cc8bdc1c314bc5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/tvnz-1-icon-nz.png",TVNZ 1
 http://121.74.22.14:62381/stream/channelid/1194265491?profile=pass
-#EXTINF:-1 tvg-id="cd5741575508c96f7867076eb2401d09" tvg-chno="2",TVNZ 2
+#EXTINF:-1 tvg-id="cd5741575508c96f7867076eb2401d09" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/tvnz-2-icon-nz.png",TVNZ 2
 http://121.74.22.14:62381/stream/channelid/1463900109?profile=pass
-#EXTINF:-1 tvg-id="34793e5d4f3ca757f82ea5110fbc08b3" tvg-chno="402",Three
+#EXTINF:-1 tvg-id="34793e5d4f3ca757f82ea5110fbc08b3" tvg-logo="https://freeviewnz.tv/Media/2dkpzmqe/three_primarylogo_rgb.png",Three
 http://121.74.22.14:62381/stream/channelid/1564375348?profile=pass
-#EXTINF:-1 tvg-id="0f8f66efa12a9acc94c182c832836e18" tvg-chno="501",TVNZ 1 +1
+#EXTINF:-1 tvg-id="0f8f66efa12a9acc94c182c832836e18" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/tvnz-1-plus-icon-nz.png",TVNZ 1 +1
 http://121.74.22.14:62381/stream/channelid/1868992271?profile=pass
-#EXTINF:-1 tvg-id="56331c4928bc8bcdcf2d90366017236d" tvg-chno="502",TVNZ 2 +1
+#EXTINF:-1 tvg-id="56331c4928bc8bcdcf2d90366017236d" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/new-zealand/tvnz-2-plus-icon-nz.png",TVNZ 2 +1
 http://121.74.22.14:62381/stream/channelid/1226584918?profile=pass
-#EXTINF:-1 tvg-id="82423c734dc474c4ffdd7172162a8eb7" tvg-chno="503",Three +1
+#EXTINF:-1 tvg-id="82423c734dc474c4ffdd7172162a8eb7" tvg-logo="https://freeviewnz.tv/Media/rsoar31p/threeplus1.png",Three +1
 http://121.74.22.14:62381/stream/channelid/1933329026?profile=pass
-#EXTINF:-1 tvg-id="ae888c8a37f42e47bba22e0339f666f7" tvg-chno="4",Sky Open
+#EXTINF:-1 tvg-id="ae888c8a37f42e47bba22e0339f666f7" tvg-logo="4",Sky Open
 http://121.74.22.14:62381/stream/channelid/176982190?profile=pass
-#EXTINF:-1 tvg-id="8fa97e47e181a35fa11529829c69d040" tvg-chno="5",Sky 5
+#EXTINF:-1 tvg-id="8fa97e47e181a35fa11529829c69d040" tvg-logo="5",Sky 5
 http://121.74.22.14:62381/stream/channelid/1199483279?profile=pass
-#EXTINF:-1 tvg-id="0e990d337bf9f48e6e8e13607627d478" tvg-chno="7",BBC UKTV
+#EXTINF:-1 tvg-id="0e990d337bf9f48e6e8e13607627d478" tvg-logo="7",BBC UKTV
 http://121.74.22.14:62381/stream/channelid/856529166?profile=pass
-#EXTINF:-1 tvg-id="f356e4de26bdfa421e6b59ad2744716a" tvg-chno="8",JONES!
+#EXTINF:-1 tvg-id="f356e4de26bdfa421e6b59ad2744716a" tvg-logo="8",JONES!
 http://121.74.22.14:62381/stream/channelid/1592022771?profile=pass
-#EXTINF:-1 tvg-id="f3cf8b83752c308ff9c8b4b2412b8502" tvg-chno="9",ID
+#EXTINF:-1 tvg-id="f3cf8b83752c308ff9c8b4b2412b8502" tvg-logo="9",ID
 http://121.74.22.14:62381/stream/channelid/59494387?profile=pass
-#EXTINF:-1 tvg-id="2c50d88becf4642e87dddf297f7ed714" tvg-chno="10",HBO
+#EXTINF:-1 tvg-id="2c50d88becf4642e87dddf297f7ed714" tvg-logo="10",HBO
 http://121.74.22.14:62381/stream/channelid/198725676?profile=pass
-#EXTINF:-1 tvg-id="fc3a6b7b3871cbded3e3471e779cb397" tvg-chno="11",Sky Comedy
+#EXTINF:-1 tvg-id="fc3a6b7b3871cbded3e3471e779cb397" tvg-logo="11",Sky Comedy
 http://121.74.22.14:62381/stream/channelid/2070625020?profile=pass
-#EXTINF:-1 tvg-id="c6da888d5f47cd1005f3df38f2a271a3" tvg-chno="405",Vibe
+#EXTINF:-1 tvg-id="c6da888d5f47cd1005f3df38f2a271a3" tvg-logo="405",Vibe
 http://121.74.22.14:62381/stream/channelid/227072710?profile=pass
-#EXTINF:-1 tvg-id="2b2e21ce9afd2ecd9dc1d0df6ef1737d" tvg-chno="12",Bravo
+#EXTINF:-1 tvg-id="2b2e21ce9afd2ecd9dc1d0df6ef1737d" tvg-logo="12",Bravo
 http://121.74.22.14:62381/stream/channelid/1310797355?profile=pass
-#EXTINF:-1 tvg-id="37c8354c6baad7a964bc9e4f72e03ba7" tvg-chno="13",eden
+#EXTINF:-1 tvg-id="37c8354c6baad7a964bc9e4f72e03ba7" tvg-logo="13",eden
 http://121.74.22.14:62381/stream/channelid/1278593079?profile=pass
-#EXTINF:-1 tvg-id="f98f7109314617306b0d9ae11c9312ca" tvg-chno="16",TLC
+#EXTINF:-1 tvg-id="f98f7109314617306b0d9ae11c9312ca" tvg-logo="16",TLC
 http://121.74.22.14:62381/stream/channelid/158437369?profile=pass
-#EXTINF:-1 tvg-id="f3a1574b85af71f0aca0e99d8b09e75e" tvg-chno="17",Living
+#EXTINF:-1 tvg-id="f3a1574b85af71f0aca0e99d8b09e75e" tvg-logo="17",Living
 http://121.74.22.14:62381/stream/channelid/1264034291?profile=pass
-#EXTINF:-1 tvg-id="dcc863d0a8a8a54dfedfaaa2d32aaf11" tvg-chno="21",HGTV
+#EXTINF:-1 tvg-id="dcc863d0a8a8a54dfedfaaa2d32aaf11" tvg-logo="21",HGTV
 http://121.74.22.14:62381/stream/channelid/1348716764?profile=pass
-#EXTINF:-1 tvg-id="0f725ca6752e0102c9a82ec45f8d70e4" tvg-chno="23",TVNZ DUKE
+#EXTINF:-1 tvg-id="0f725ca6752e0102c9a82ec45f8d70e4" tvg-logo="23",TVNZ DUKE
 http://121.74.22.14:62381/stream/channelid/643592719?profile=pass
-#EXTINF:-1 tvg-id="710ed74e6b09d0ac80464320fe42f7c8" tvg-chno="24",Rush
+#EXTINF:-1 tvg-id="710ed74e6b09d0ac80464320fe42f7c8" tvg-logo="24",Rush
 http://121.74.22.14:62381/stream/channelid/1322716785?profile=pass
-#EXTINF:-1 tvg-id="41d4fde8b2769b5ad434cf415037466b" tvg-chno="25",Juice TV
+#EXTINF:-1 tvg-id="41d4fde8b2769b5ad434cf415037466b" tvg-logo="25",Juice TV
 http://121.74.22.14:62381/stream/channelid/1761465409?profile=pass
-#EXTINF:-1 tvg-id="e9b9628b121edd1f6c56c666722ba0ed" tvg-chno="26",J2
+#EXTINF:-1 tvg-id="e9b9628b121edd1f6c56c666722ba0ed" tvg-logo="26",J2
 http://121.74.22.14:62381/stream/channelid/191019497?profile=pass
-#EXTINF:-1 tvg-id="b637db220ff00bb0ba6c25a81033e79d" tvg-chno="30",Sky Movies Premiere
+#EXTINF:-1 tvg-id="b637db220ff00bb0ba6c25a81033e79d" tvg-logo="30",Sky Movies Premiere
 http://121.74.22.14:62381/stream/channelid/584791990?profile=pass
-#EXTINF:-1 tvg-id="ccf2d682271ed5e1dfefddaac72ad0a9" tvg-chno="32",Sky Movies Action
+#EXTINF:-1 tvg-id="ccf2d682271ed5e1dfefddaac72ad0a9" tvg-logo="32",Sky Movies Action
 http://121.74.22.14:62381/stream/channelid/47641292?profile=pass
-#EXTINF:-1 tvg-id="8dffd20c127086d1de79c636b675b2d1" tvg-chno="33",Sky Movies Greats
+#EXTINF:-1 tvg-id="8dffd20c127086d1de79c636b675b2d1" tvg-logo="33",Sky Movies Greats
 http://121.74.22.14:62381/stream/channelid/215154573?profile=pass
-#EXTINF:-1 tvg-id="99aedec0758f88d05e1aaae80227b592" tvg-chno="34",Sky Movies Classics
+#EXTINF:-1 tvg-id="99aedec0758f88d05e1aaae80227b592" tvg-logo="34",Sky Movies Classics
 http://121.74.22.14:62381/stream/channelid/1088335513?profile=pass
-#EXTINF:-1 tvg-id="c1d9d19439a02319bb6094e0c406c5a2" tvg-chno="36",Sky Movies Family
+#EXTINF:-1 tvg-id="c1d9d19439a02319bb6094e0c406c5a2" tvg-logo="36",Sky Movies Family
 http://121.74.22.14:62381/stream/channelid/349297089?profile=pass
-#EXTINF:-1 tvg-id="abdd48cc5a96548c4dd050d2348f5c62" tvg-chno="50",Sky Sport Select
+#EXTINF:-1 tvg-id="abdd48cc5a96548c4dd050d2348f5c62" tvg-logo="50",Sky Sport Select
 http://121.74.22.14:62381/stream/channelid/1279843755?profile=pass
-#EXTINF:-1 tvg-id="e02545c7d207ef6241cdb4555092a59f" tvg-chno="51",Sky Sport 1
+#EXTINF:-1 tvg-id="e02545c7d207ef6241cdb4555092a59f" tvg-logo="51",Sky Sport 1
 http://121.74.22.14:62381/stream/channelid/1195714016?profile=pass
-#EXTINF:-1 tvg-id="6ac988e598a9c06078b8c51528558259" tvg-chno="52",Sky Sport 2
+#EXTINF:-1 tvg-id="6ac988e598a9c06078b8c51528558259" tvg-logo="52",Sky Sport 2
 http://121.74.22.14:62381/stream/channelid/1703463274?profile=pass
-#EXTINF:-1 tvg-id="73dac0ad903d319354ab3533de1d54bc" tvg-chno="53",Sky Sport 3
+#EXTINF:-1 tvg-id="73dac0ad903d319354ab3533de1d54bc" tvg-logo="53",Sky Sport 3
 http://121.74.22.14:62381/stream/channelid/767613555?profile=pass
-#EXTINF:-1 tvg-id="e3ee2ce434f4479b176cb45fd484b3bf" tvg-chno="54",Sky Sport 4
+#EXTINF:-1 tvg-id="e3ee2ce434f4479b176cb45fd484b3bf" tvg-logo="54",Sky Sport 4
 http://121.74.22.14:62381/stream/channelid/1680666339?profile=pass
-#EXTINF:-1 tvg-id="fa9f54ddb096cea4978ed236ae594b86" tvg-chno="55",Sky Sport 5
+#EXTINF:-1 tvg-id="fa9f54ddb096cea4978ed236ae594b86" tvg-logo="55",Sky Sport 5
 http://121.74.22.14:62381/stream/channelid/1565827066?profile=pass
-#EXTINF:-1 tvg-id="6fc25bbaebc7a1ca18190e44b259454f" tvg-chno="56",Sky Sport 6
+#EXTINF:-1 tvg-id="6fc25bbaebc7a1ca18190e44b259454f" tvg-logo="56",Sky Sport 6
 http://121.74.22.14:62381/stream/channelid/979092079?profile=pass
-#EXTINF:-1 tvg-id="04e0452e6f99c012d051bc7f28690827" tvg-chno="57",Sky Sport 7
+#EXTINF:-1 tvg-id="04e0452e6f99c012d051bc7f28690827" tvg-logo="57",Sky Sport 7
 http://121.74.22.14:62381/stream/channelid/776331268?profile=pass
-#EXTINF:-1 tvg-id="58227c34c392d41ef5ed14d82ea8503e" tvg-chno="58",Sky Sport Premier League
+#EXTINF:-1 tvg-id="58227c34c392d41ef5ed14d82ea8503e" tvg-logo="58",Sky Sport Premier League
 http://121.74.22.14:62381/stream/channelid/880550488?profile=pass
-#EXTINF:-1 tvg-id="0fb9119e53b3d7c865acb74fe6867062" tvg-chno="59",Sky Sport 9
+#EXTINF:-1 tvg-id="0fb9119e53b3d7c865acb74fe6867062" tvg-logo="59",Sky Sport 9
 http://121.74.22.14:62381/stream/channelid/504477967?profile=pass
-#EXTINF:-1 tvg-id="65678e05fc4f1aa6212812cab16bd2b1" tvg-chno="60",ESPN
+#EXTINF:-1 tvg-id="65678e05fc4f1aa6212812cab16bd2b1" tvg-logo="60",ESPN
 http://121.74.22.14:62381/stream/channelid/93218661?profile=pass
-#EXTINF:-1 tvg-id="07a804262cf8431f5bd45ce0c4e136a7" tvg-chno="61",ESPN2
+#EXTINF:-1 tvg-id="07a804262cf8431f5bd45ce0c4e136a7" tvg-logo="61",ESPN2
 http://121.74.22.14:62381/stream/channelid/637839367?profile=pass
-#EXTINF:-1 tvg-id="30d8cdb88bdad02b9a9dac8fc53a7b96" tvg-chno="62",Trackside 1
+#EXTINF:-1 tvg-id="30d8cdb88bdad02b9a9dac8fc53a7b96" tvg-logo="62",Trackside 1
 http://121.74.22.14:62381/stream/channelid/953014320?profile=pass
-#EXTINF:-1 tvg-id="4aca7794491d6202b7e03fd5e08b7ea8" tvg-chno="63",Trackside 2
+#EXTINF:-1 tvg-id="4aca7794491d6202b7e03fd5e08b7ea8" tvg-logo="63",Trackside 2
 http://121.74.22.14:62381/stream/channelid/343394890?profile=pass
-#EXTINF:-1 tvg-id="d0ec512f813c1097809da260ebccb872" tvg-chno="70",Discovery
+#EXTINF:-1 tvg-id="d0ec512f813c1097809da260ebccb872" tvg-logo="70",Discovery
 http://121.74.22.14:62381/stream/channelid/793898192?profile=pass
-#EXTINF:-1 tvg-id="992ac878f580149b6ca74dc2a41d3563" tvg-chno="71",Real Crime
+#EXTINF:-1 tvg-id="992ac878f580149b6ca74dc2a41d3563" tvg-logo="71",Real Crime
 http://121.74.22.14:62381/stream/channelid/2026384025?profile=pass
-#EXTINF:-1 tvg-id="51f497d8e74f6e73fdbe567aa8c46a4b" tvg-chno="74",BBC Earth
+#EXTINF:-1 tvg-id="51f497d8e74f6e73fdbe567aa8c46a4b" tvg-logo="74",BBC Earth
 http://121.74.22.14:62381/stream/channelid/1486353489?profile=pass
-#EXTINF:-1 tvg-id="35d046cf2969046ad82503ea529f8a6e" tvg-chno="75",Discovery Turbo
+#EXTINF:-1 tvg-id="35d046cf2969046ad82503ea529f8a6e" tvg-logo="75",Discovery Turbo
 http://121.74.22.14:62381/stream/channelid/1330040885?profile=pass
-#EXTINF:-1 tvg-id="8cb618eb555d1fca29792014d312c84a" tvg-chno="76",Animal Planet
+#EXTINF:-1 tvg-id="8cb618eb555d1fca29792014d312c84a" tvg-logo="76",Animal Planet
 http://121.74.22.14:62381/stream/channelid/1796781708?profile=pass
-#EXTINF:-1 tvg-id="d80b6c601224f4cea9f3fd2f623d1994" tvg-chno="83",FACE TV
+#EXTINF:-1 tvg-id="d80b6c601224f4cea9f3fd2f623d1994" tvg-logo="83",FACE TV
 http://121.74.22.14:62381/stream/channelid/1617693656?profile=pass
-#EXTINF:-1 tvg-id="52a7eaded9b15bb1183cf56a7f4a03b8" tvg-chno="85",Sky News
+#EXTINF:-1 tvg-id="52a7eaded9b15bb1183cf56a7f4a03b8" tvg-logo="85",Sky News
 http://121.74.22.14:62381/stream/channelid/1592436562?profile=pass
-#EXTINF:-1 tvg-id="ca281d6218c575b6a0c56f79cd175d9f" tvg-chno="86",Parliament TV
+#EXTINF:-1 tvg-id="ca281d6218c575b6a0c56f79cd175d9f" tvg-logo="86",Parliament TV
 http://121.74.22.14:62381/stream/channelid/1646078154?profile=pass
-#EXTINF:-1 tvg-id="4e122f9596e8876fb4738634f6394f87" tvg-chno="87",CNN
+#EXTINF:-1 tvg-id="4e122f9596e8876fb4738634f6394f87" tvg-logo="87",CNN
 http://121.74.22.14:62381/stream/channelid/355406414?profile=pass
-#EXTINF:-1 tvg-id="9ba182135a1aae65670da1eaa7bc357b" tvg-chno="89",BBC World News
+#EXTINF:-1 tvg-id="9ba182135a1aae65670da1eaa7bc357b" tvg-logo="89",BBC World News
 http://121.74.22.14:62381/stream/channelid/327328155?profile=pass
-#EXTINF:-1 tvg-id="e19a9c3cd3d85c0610a417cf84782289" tvg-chno="91",CNBC
+#EXTINF:-1 tvg-id="e19a9c3cd3d85c0610a417cf84782289" tvg-logo="91",CNBC
 http://121.74.22.14:62381/stream/channelid/1016896225?profile=pass
-#EXTINF:-1 tvg-id="afa1d563f6625aaa898604f7edaead9b" tvg-chno="101",Sky Kids
+#EXTINF:-1 tvg-id="afa1d563f6625aaa898604f7edaead9b" tvg-logo="101",Sky Kids
 http://121.74.22.14:62381/stream/channelid/1674944943?profile=pass
-#EXTINF:-1 tvg-id="24871d5e70272f46761fff44a8de7c28" tvg-chno="103",CBeebies
+#EXTINF:-1 tvg-id="24871d5e70272f46761fff44a8de7c28" tvg-logo="103",CBeebies
 http://121.74.22.14:62381/stream/channelid/1578993444?profile=pass
-#EXTINF:-1 tvg-id="536673d923aef3a970e2dc10e843ba0c" tvg-chno="201",Shine TV
+#EXTINF:-1 tvg-id="536673d923aef3a970e2dc10e843ba0c" tvg-logo="201",Shine TV
 http://121.74.22.14:62381/stream/channelid/1500735059?profile=pass
-#EXTINF:-1 tvg-id="ebefea9abe28b3900200fef28e059a42" tvg-chno="202",Daystar
+#EXTINF:-1 tvg-id="ebefea9abe28b3900200fef28e059a42" tvg-logo="202",Daystar
 http://121.74.22.14:62381/stream/channelid/451604459?profile=pass
-#EXTINF:-1 tvg-id="83f0405e96d3fefead64ba9d09a22fbf" tvg-chno="204",Hope Channel
+#EXTINF:-1 tvg-id="83f0405e96d3fefead64ba9d09a22fbf" tvg-logo="204",Hope Channel
 http://121.74.22.14:62381/stream/channelid/1581314179?profile=pass
-#EXTINF:-1 tvg-id="9ad499f082679c8f67c8552a7770e408" tvg-chno="206",Firstlight
+#EXTINF:-1 tvg-id="9ad499f082679c8f67c8552a7770e408" tvg-logo="206",Firstlight
 http://121.74.22.14:62381/stream/channelid/1889129626?profile=pass
-#EXTINF:-1 tvg-id="e446b10bbd48ce3624d6e1d97845020c" tvg-chno="207",BBC First
+#EXTINF:-1 tvg-id="e446b10bbd48ce3624d6e1d97845020c" tvg-logo="207",BBC First
 http://121.74.22.14:62381/stream/channelid/196167396?profile=pass
-#EXTINF:-1 tvg-id="5a7a7ea176c13ea477987eef0a51abe7" tvg-chno="210",Universal TV
+#EXTINF:-1 tvg-id="5a7a7ea176c13ea477987eef0a51abe7" tvg-logo="210",Universal TV
 http://121.74.22.14:62381/stream/channelid/561936986?profile=pass
-#EXTINF:-1 tvg-id="6b1ff8fc1cf65f7016a0f99f11893268" tvg-chno="309",CGTN Documentary
+#EXTINF:-1 tvg-id="6b1ff8fc1cf65f7016a0f99f11893268" tvg-logo="309",CGTN Documentary
 http://121.74.22.14:62381/stream/channelid/2096635755?profile=pass
-#EXTINF:-1 tvg-id="ba0d39c2218d05e612368651609b598e" tvg-chno="310",CGTN
+#EXTINF:-1 tvg-id="ba0d39c2218d05e612368651609b598e" tvg-logo="310",CGTN
 http://121.74.22.14:62381/stream/channelid/1111035322?profile=pass
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/zdcW4dPE8E.jpg" radio="true",Radio New Zealand National
@@ -281,3 +281,4 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+

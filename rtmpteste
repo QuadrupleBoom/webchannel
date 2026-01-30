@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF: 0, TEST
-rtmp://210.4.112.99:8080/tapdmv/TVN_movies
+rtmp://210.4.112.99:8080/tapdmv app=live swfUrl=http://210.4.112.99:8080/Main.swf pageURL=http://210.4.112.99:8080/ playpath=TVN_movies live=true
